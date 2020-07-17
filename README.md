@@ -1,4 +1,4 @@
-# Gulp Boostrap Boilerplate
+# Gulp Bootstrap Boilerplate
 
 A not so overkill front-end workflow environment or boilerplate... whatever you want to call it.
 
