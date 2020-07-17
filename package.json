@@ -1,0 +1,42 @@
+{
+  "title": "Gulp Boostrap Boilerplate",
+  "name": "gulp-bootstrap-boilerplate",
+  "version": "1.0.0",
+  "description": "Gulp + Bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleckrh/gulp-bootstrap-boilerplate"
+  },
+  "keywords": [
+    "Gulp",
+    "Bootstrap 4"
+  ],
+  "author": "Alejandro RH",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.9",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "merge-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
